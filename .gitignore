@@ -1,0 +1,27 @@
+# ---- Ambientes e caches
+.venv*/
+__pycache__/
+*.pyc
+
+# ---- SEGREDOS: chaves de API cadastradas no painel (NUNCA versionar)
+dados/config_ia.json
+dados/*.tmp
+
+# ---- Material didático do curso (não é dado do projeto)
+Guia*.html
+
+# ---- Arquivos intermediários
+dados/leituras.anterior.csv
+dados/rotina_log.txt
+
+# ---- Pastas de teste e demonstração (recriáveis com `python -m aurora --base demo mock`)
+teste*/
+demo*/
+
+# ---- Notas internas de trabalho
+CHECKPOINT.md
+
+# ---- Sistema
+Thumbs.db
+.DS_Store
+~$*

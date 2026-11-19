@@ -1,0 +1,2 @@
+﻿# Leitor OCR da etapa 1 (Docling + regras + IA opcional). Chamado pela rotina semanal.
+.venv-ocr\Scripts\python.exe -m aurora.ocr_docling

@@ -1,0 +1,2 @@
+# Pipeline (etapas 1-6), dashboard Excel e painel HTML
+openpyxl>=3.1

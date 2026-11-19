@@ -1,0 +1,7 @@
+# Leitura dos comprovantes (OCR) + servidor do chat de IA.
+# Recomendado: Python 3.11 em ambiente separado (.venv-ocr). Instale antes o PyTorch CPU:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+docling==2.123.0
+easyocr>=1.7.2
+anthropic>=2.10
+openpyxl>=3.1

@@ -1,0 +1,231 @@
+﻿arquivo;data;cliente;valor;forma;status;obs;arquivo_original
+2026-02-19_Comercial Amazonas_500,00.jpg;2026-02-19;Comercial Amazonas;500.00;Pix;ok;regras: Serra Dourada;1000005549.jpg
+2026-04-14_Hortifruti Natural_8891,33.jpg;2026-04-14;Hortifruti Natural;8891.33;Pix;ok;regras: Zaply;1000005650.jpg
+2026-06-01_REDE FARMACIAS POPULAR_1130,00.jpg;2026-06-01;REDE FARMACIAS POPULAR;1130.00;Boleto;ok;regras: PagLesto;1000005836.jpg
+2026-05-21_Adega Ponto do Vinho_37894,99.jpg;2026-05-21;Adega Ponto do Vinho;37894.99;Pix;ok;regras: Zaply;1000006379.jpg
+ILEGIVEL_1000007301.jpg;;;;;ilegivel;CrediSolar: não encontrado: valor | 2ª passada: CrediSolar: não encontrado: cliente | IA indisponível (sem credenciais);1000007301.jpg
+2026-01-08_Distribuidora Bebidas Lopes_21750,00.png;2026-01-08;Distribuidora Bebidas Lopes;21750.00;Pix;ok;regras: Meridiano;20260110_090051.png
+2026-01-20_Mercadao Central_5740,00.png;2026-01-20;Mercadao Central;5740.00;Transferência;ok;regras: Zaply;20260120_234134.png
+2026-01-30_Atacado Uniao Comercial_16670,00.png;2026-01-30;Atacado Uniao Comercial;16670.00;Pix;ok;regras: Zaply;20260130_092014.png
+2026-03-26_Distribuidora Bebidas Lopes_14320,00.png;2026-03-26;Distribuidora Bebidas Lopes;14320.00;Pix;ok;regras: Zaply;20260330_092400.png
+2026-06-21_Atacado Uniao Comercial_8820,00.png;2026-06-21;Atacado Uniao Comercial;8820.00;Pix;ok;regras: Zaply;20260622_115634.png
+2026-01-16_Distribuidora Bebidas Lopes_11250,00.jpg;2026-01-16;Distribuidora Bebidas Lopes;11250.00;Pix;ok;regras: Meridiano;2706.jpg
+ILEGIVEL_2946.jpg;;;;;ilegivel;layout não reconhecido | 2ª passada: Vale Claro: não encontrado: data, cliente, valor, forma | IA indisponível (sem credenciais);2946.jpg
+2026-04-17_Supermercado Familia_33820,00.jpg;2026-04-17;Supermercado Familia;33820.00;TED;ok;regras: Serra Dourada;2951.jpg
+2026-01-26_ADEGA PONIO VINHO_11450,00.jpg;2026-01-26;ADEGA PONIO VINHO;11450.00;Boleto;ok;regras: PagLesto;4859.jpg
+2026-06-12_Atacado Uniao Comercial_12447,95.jpg;2026-06-12;Atacado Uniao Comercial;12447.95;Pix;ok;regras: Pontal;4965.jpg
+ILEGIVEL_5924.jpg;;;;;ilegivel;CrediSolar: não encontrado: valor, forma | 2ª passada: CrediSolar: não encontrado: valor, forma | IA indisponível (sem credenciais);5924.jpg
+2026-04-03_Adega Ponto do Vinho_18340,00.jpg;2026-04-03;Adega Ponto do Vinho;18340.00;Transferência;ok;regras: Zaply;7527.jpg
+2026-01-26_Adega Ponto do Vinho_12364,41.jpg;2026-01-26;Adega Ponto do Vinho;12364.41;Pix;ok;regras: Meridiano;8121.jpg
+2026-06-23_Rede Farmacias Popular_4260,00.jpg;2026-06-23;Rede Farmacias Popular;4260.00;Transferência;ok;regras: Zaply;880.jpg
+2026-04-28_Distribuidora Bebidas Lopes_19793,90.jpg;2026-04-28;Distribuidora Bebidas Lopes;19793.90;Boleto;ok;regras: Meridiano;9527.jpg
+2026-06-29_Atacado Uniao Comercial_29320,00.jpg;2026-06-29;Atacado Uniao Comercial;29320.00;Transferência;ok;regras: Zaply;970.jpg
+2026-01-29_Distrib. Bebidas Lopes ME_13755,81.PDF;2026-01-29;Distrib. Bebidas Lopes ME;13755.81;Boleto;ok;regras: Meridiano;ARQUIVO 1568.PDF
+2026-03-03_Rede Supermercados Mais_13770,00.PDF;2026-03-03;Rede Supermercados Mais;13770.00;Pix;ok;regras: Serra Dourada;ARQUIVO 1791.PDF
+2026-05-01_Adega Ponto do Vinho_16070,00.PDF;2026-05-01;Adega Ponto do Vinho;16070.00;TED;ok;regras: Meridiano;ARQUIVO 2807.PDF
+2026-02-05_ADEGA PONTO DO VINHO_92480,00.PDF;2026-02-05;ADEGA PONTO DO VINHO;92480.00;Pix;ok;regras: Vale Claro;ARQUIVO 4719.PDF
+2026-01-13_Rede Farmacias Popular_8179,80.PDF;2026-01-13;Rede Farmacias Popular;8179.80;Boleto;ok;regras: Serra Dourada;ARQUIVO 7472.PDF
+2026-06-29_Atacado Uniao Comercial_8217,22.PDF;2026-06-29;Atacado Uniao Comercial;8217.22;Pix;ok;regras: Meridiano;ARQUIVO 9397.PDF
+2026-02-13_RS MAIS COMERCIO DE ALIMENTOS LTDA_13198,52.png;2026-02-13;RS MAIS COMERCIO DE ALIMENTOS LTDA;13198.52;Pix;ok;regras: Zaply;Captura de tela 4.png
+2026-05-19_Rede Supermercados Mais_4170,00.png;2026-05-19;Rede Supermercados Mais;4170.00;Boleto;ok;regras: Serra Dourada;Captura de tela 42.png
+ILEGIVEL_Captura de tela 55.png;;;;;ilegivel;Vale Claro: não encontrado: data, valor, forma | 2ª passada: Vale Claro: não encontrado: data, valor, forma | IA indisponível (sem credenciais);Captura de tela 55.png
+2026-02-24_Supermercado Familia_23368,59.PDF;2026-02-24;Supermercado Familia;23368.59;Pix;ok;regras: Serra Dourada;DOC3452.PDF
+2026-04-09_Hortifruti Natural_17380,00.PDF;2026-04-09;Hortifruti Natural;17380.00;Depósito;ok;regras: Serra Dourada;DOC3537.PDF
+2026-03-30_Supermercado Familia_68960,00.PDF;2026-03-30;Supermercado Familia;68960.00;Boleto;ok;regras: Meridiano;DOC7325.PDF
+2026-03-13_ADEGA PT DO VINHO_11612,30.PDF;2026-03-13;ADEGA PT DO VINHO;11612.30;Pix;ok;regras: Serra Dourada;DOC7713.PDF
+2026-01-16_DISTRIBUIDORA BEBIDAS LOPES_13230,00.PDF;2026-01-16;DISTRIBUIDORA BEBIDAS LOPES;13230.00;Boleto;ok;regras: PagLesto;DOC8402.PDF
+2026-05-20_REDE SUPERMERCADOS MAIS_6320,00.pdf;2026-05-20;REDE SUPERMERCADOS MAIS;6320.00;Pix;ok;regras: CrediSolar;Digitalizar 0138.pdf
+2026-02-03_ATACADO UNIAO COMERCIAL_11080,00.pdf;2026-02-03;ATACADO UNIAO COMERCIAL;11080.00;Boleto;ok;regras: PagLesto;Digitalizar 1770.pdf
+2026-06-17_Mercadao Central_4910,00.pdf;2026-06-17;Mercadao Central;4910.00;Pix;ok;regras: Zaply;Digitalizar 2031.pdf
+2026-01-16_SUPERMERCADO FAMILIA_8040,00.pdf;2026-01-16;SUPERMERCADO FAMILIA;8040.00;Boleto;ok;regras: PagLesto;Digitalizar 4525.pdf
+2026-02-19_Adega Ponto do Vinho_35190,00.pdf;2026-02-19;Adega Ponto do Vinho;35190.00;Pix;ok;regras: Serra Dourada;Digitalizar 6190.pdf
+2026-03-16_ATACADO UNIAO COMERCIAL_32690,00.pdf;2026-03-16;ATACADO UNIAO COMERCIAL;32690.00;Pix;ok;regras: Vale Claro;Digitalizar 7105.pdf
+2026-01-05_Supermercado Familia_14870,00.pdf;2026-01-05;Supermercado Familia;14870.00;Boleto;ok;regras: Serra Dourada;Digitalizar 7951.pdf
+2026-04-07_Supermercado Familia_14880,00.pdf;2026-04-07;Supermercado Familia;14880.00;Pix;ok;regras: Meridiano;Documento (1298).pdf
+2026-02-12_Atacado Uniao Comercial_22930,00.pdf;2026-02-12;Atacado Uniao Comercial;22930.00;Pix;ok;regras: Zaply;Documento (1623).pdf
+2026-04-17_Distribuidora Bebidas Lopes_26590,00.pdf;2026-04-17;Distribuidora Bebidas Lopes;26590.00;Pix;ok;regras: Meridiano;Documento (1904).pdf
+2026-03-05_Rede Farmacias Popular_2450,00.pdf;2026-03-05;Rede Farmacias Popular;2450.00;Pix;ok;regras: Zaply;Documento (2111).pdf
+2026-05-19_Distribuidora Bebidas Lopes_14809,45.pdf;2026-05-19;Distribuidora Bebidas Lopes;14809.45;TED;ok;regras: Meridiano;Documento (3032).pdf
+2026-06-29_Supermercado Familia_7470,00.pdf;2026-06-29;Supermercado Familia;7470.00;Pix;ok;regras: Serra Dourada;Documento (4260).pdf
+2026-05-07_ATACADO UNIAO COMERCIAL_21470,33.pdf;2026-05-07;ATACADO UNIAO COMERCIAL;21470.33;Pix;ok;regras: CrediSolar;Documento (4392).pdf
+2026-02-17_Adega Ponto do Vinho_9730,00.pdf;2026-02-17;Adega Ponto do Vinho;9730.00;Boleto;ok;regras: Serra Dourada;Documento (5326).pdf
+2026-02-15_FRIGORIFICO VALE VERDE_4740,00.pdf;2026-02-15;FRIGORIFICO VALE VERDE;4740.00;Pix;ok;regras: CrediSolar;Documento (5766).pdf
+2026-06-08_FRIGORIFICO VALE VERDE_5034,30.pdf;2026-06-08;FRIGORIFICO VALE VERDE;5034.30;Boleto;ok;regras: PagLesto;Documento (6609).pdf
+2026-03-30_Supermercado Familia_13460,00.pdf;2026-03-30;Supermercado Familia;13460.00;Boleto;ok;regras: Meridiano;Documento (6632).pdf
+2026-02-11_Bar e Restaurante Estrela do Sul_7040,00.pdf;2026-02-11;Bar e Restaurante Estrela do Sul;7040.00;Pix;ok;regras: Rumo Certo;Documento (6761).pdf
+2026-05-31_REDE FARMACIAS POPULAR_5240,00.pdf;2026-05-31;REDE FARMACIAS POPULAR;5240.00;Pix;ok;regras: CrediSolar;Documento (6933).pdf
+2026-01-19_SUPERMERCADO FAMILIA_53640,00.pdf;2026-01-19;SUPERMERCADO FAMILIA;53640.00;Pix;ok;regras: Vale Claro;Documento (9081).pdf
+2026-06-24_ADEGA PONTO DO VINHO_15000,00.pdf;2026-06-24;ADEGA PONTO DO VINHO;15000.00;Pix;ok;regras: CrediSolar;Documento11.pdf
+2026-06-29_Atacado Uniao Comercial_15710,00.pdf;2026-06-29;Atacado Uniao Comercial;15710.00;Pix;ok;regras: Meridiano;Documento25.pdf
+2026-06-18_Frigorifico Vale Verde_12100,00.pdf;2026-06-18;Frigorifico Vale Verde;12100.00;Pix;ok;regras: Meridiano;Documento32.pdf
+2026-04-09_REDE FARMACIAS POPULAR_1410,00.pdf;2026-04-09;REDE FARMACIAS POPULAR;1410.00;Boleto;ok;regras: CrediSolar;Documento34.pdf
+2026-05-21_Supermercado Familia_21320,00.pdf;2026-05-21;Supermercado Familia;21320.00;Pix;ok;regras: Meridiano;Documento36.pdf
+2026-04-21_FRIGORIFICO VALE VERDE_3820,00.pdf;2026-04-21;FRIGORIFICO VALE VERDE;3820.00;Pix;ok;regras: Vale Claro;Documento38.pdf
+2026-05-05_Atacado Uniao Comercial_9670,00.pdf;2026-05-05;Atacado Uniao Comercial;9670.00;Boleto;ok;regras: Serra Dourada;Documento40.pdf
+2026-04-13_COMERCIAL AMAZONAS_1660,00.pdf;2026-04-13;COMERCIAL AMAZONAS;1660.00;Pix;ok;regras: Vale Claro;Documento45.pdf
+2026-02-25_Hortifruti Natural_20430,00.jpg;2026-02-25;Hortifruti Natural;20430.00;Pix;ok;regras: Rumo Certo;IMG-20260225-WA0010.jpg
+2026-02-26_Distribuidora Bebidas Lopes_15000,00.jpg;2026-02-26;Distribuidora Bebidas Lopes;15000.00;Depósito;ok;regras: Meridiano;IMG-20260228-WA0059.jpg
+2026-05-08_Hortifruti Natural_19810,00.jpg;2026-05-08;Hortifruti Natural;19810.00;Pix;ok;regras: Serra Dourada;IMG-20260510-WA0049.jpg
+2026-05-14_Mais Rede Supermercados_6983,00.jpg;2026-05-14;Mais Rede Supermercados;6983.00;Depósito;ok;regras: Meridiano;IMG-20260515-WA0016.jpg
+2026-05-11_Mercadao Central_27015,30.jpg;2026-05-11;Mercadao Central;27015.30;Pix;ok;regras: Zaply;IMG-20260516-WA0056.jpg
+2026-01-06_Hortifruti Natural_32588,48.JPG;2026-01-06;Hortifruti Natural;32588.48;Pix;ok;regras: Rumo Certo;IMG2334.JPG
+2026-06-09_Atacado Uniao Comercial_50100,00.JPG;2026-06-09;Atacado Uniao Comercial;50100.00;TED;ok;regras: Serra Dourada;IMG258.JPG
+2026-05-07_Distribuidora Bebidas Lopes_8930,00.JPG;2026-05-07;Distribuidora Bebidas Lopes;8930.00;Pix;ok;regras: Zaply;IMG3079.JPG
+2026-05-08_Hortifruti Natural_19810,00_copia.JPG;2026-05-08;Hortifruti Natural;19810.00;Pix;ok;regras: Serra Dourada;IMG3911.JPG
+2026-05-14_Mercadao Central_12320,00.JPG;2026-05-14;Mercadao Central;12320.00;Pix;ok;regras: Serra Dourada;IMG6063.JPG
+2026-06-01_REDE FARMACIAS POPULAR_1130,00_copia.JPG;2026-06-01;REDE FARMACIAS POPULAR;1130.00;Boleto;ok;regras: PagLesto;IMG645.JPG
+2026-02-18_MERCADAO CENTRAL_10070,00_copia.jpg;2026-02-18;MERCADAO CENTRAL;10070.00;Pix;ok;regras: CrediSolar;IMG_0131.jpg
+2026-01-14_Mercadao Central_6510,00.jpg;2026-01-14;Mercadao Central;6510.00;Pix;ok;regras: Rumo Certo;IMG_0515.jpg
+2026-01-15_Frigorifico Vale Verde_5704,87.jpg;2026-01-15;Frigorifico Vale Verde;5704.87;Pix;ok;regras: Zaply;IMG_2536.jpg
+2026-05-29_Rede Farmacias Popular_3694,50.jpg;2026-05-29;Rede Farmacias Popular;3694.50;Transferência;ok;regras: Zaply;IMG_2919.jpg
+2026-04-28_ADEGA PONTO VINHO_25453,69.jpg;2026-04-28;ADEGA PONTO VINHO;25453.69;Boleto;ok;regras: PagLesto;IMG_3941.jpg
+2026-01-19_Distribuidora Bebidas_33440,00.jpg;2026-01-19;Distribuidora Bebidas;33440.00;Transferência;ok;regras: Zaply;IMG_6375.jpg
+2026-02-03_ADEGA PONTO Do VINHO_4580,00.jpg;2026-02-03;ADEGA PONTO Do VINHO;4580.00;Boleto;ok;regras: PagLesto;IMG_7305.jpg
+2026-05-11_Supermercado Familia_20910,00.pdf;2026-05-11;Supermercado Familia;20910.00;Pix;ok;regras: Meridiano;Nova digitalização 22.pdf
+2026-03-23_Frigorifico Vale Verde_5330,00.pdf;2026-03-23;Frigorifico Vale Verde;5330.00;Boleto;ok;regras: Meridiano;Nova digitalização 25.pdf
+2026-03-10_REDE FARMACIAS POPULAR_1890,00.pdf;2026-03-10;REDE FARMACIAS POPULAR;1890.00;Pix;ok;regras: CrediSolar;Nova digitalização 30.pdf
+2026-03-13_Atacado Uniao Comercial_46221,56.pdf;2026-03-13;Atacado Uniao Comercial;46221.56;Pix;ok;regras: Meridiano;Nova digitalização 34.pdf
+2026-04-10_Hortifruti Natural_22390,00.pdf;2026-04-10;Hortifruti Natural;22390.00;Pix;ok;regras: Serra Dourada;Nova digitalização 43.pdf
+2026-05-08_Hortifruti Natural_17310,00.pdf;2026-05-08;Hortifruti Natural;17310.00;Pix;ok;regras: Rumo Certo;Nova digitalização 44.pdf
+2026-02-02_Comercial Amazonas_380,00.pdf;2026-02-02;Comercial Amazonas;380.00;Boleto;ok;regras: Rumo Certo;Nova digitalização 52.pdf
+2026-01-29_Frigorifico Vale Verde_5588,94.pdf;2026-01-29;Frigorifico Vale Verde;5588.94;Pix;ok;regras: Meridiano;Nova digitalização 56.pdf
+2026-02-06_Padaria e Confeitaria Trigo de Ouro_8330,00.jpg;2026-02-06;Padaria e Confeitaria Trigo de Ouro;8330.00;Depósito;ok;regras: Meridiano;PHOTO-2026-02-09-22-40-09.jpg
+2026-02-17_Hortifruti Natural_13759,65.jpg;2026-02-17;Hortifruti Natural;13759.65;Boleto;ok;regras: Serra Dourada;PHOTO-2026-02-18-07-44-53.jpg
+2026-05-07_Distribuidora Bebidas Lopes_19760,00.jpg;2026-05-07;Distribuidora Bebidas Lopes;19760.00;Pix;ok;regras: Rumo Certo;PHOTO-2026-05-12-22-45-17.jpg
+2026-05-22_Supermercado Familia_16480,00.jpg;2026-05-22;Supermercado Familia;16480.00;Pix;ok;regras: Pontal;PHOTO-2026-05-23-07-19-37.jpg
+2026-06-05_Atacado Uniao Comercial_18980,00.jpg;2026-06-05;Atacado Uniao Comercial;18980.00;Boleto;ok;regras: Meridiano;PHOTO-2026-06-09-12-29-47.jpg
+2026-06-15_Supermercado Familia_32230,00.jpg;2026-06-15;Supermercado Familia;32230.00;TED;ok;regras: Serra Dourada;PHOTO-2026-06-20-17-55-34.jpg
+2026-02-19_Adega Ponto do Vinho_13025,02.pdf;2026-02-19;Adega Ponto do Vinho;13025.02;TED;ok;regras: Serra Dourada;Scan_20260220_59.pdf
+2026-04-17_Rede Supermercados Mais_4990,00.pdf;2026-04-17;Rede Supermercados Mais;4990.00;Pix;ok;regras: Pontal;Scan_20260417_8.pdf
+2026-06-10_Adega Ponto do Vinho_25375,67.pdf;2026-06-10;Adega Ponto do Vinho;25375.67;TED;ok;regras: Serra Dourada;Scan_20260615_12.pdf
+2026-04-17_Frigorifico Vale Verde_4090,00.png;2026-04-17;Frigorifico Vale Verde;4090.00;Pix;ok;regras: Zaply;Screenshot 2026-04-20 124809.png
+2026-05-12_DISIRIBUIDORA BEBIDAS LOPES_12350,00.png;2026-05-12;DISIRIBUIDORA BEBIDAS LOPES;12350.00;Boleto;ok;regras: PagLesto;Screenshot 2026-05-14 095553.png
+ILEGIVEL_Screenshot_20260306-133729.png;;;;;ilegivel;Vale Claro: não encontrado: data, valor, forma | 2ª passada: Vale Claro: não encontrado: data, valor, forma | IA indisponível (sem credenciais);Screenshot_20260306-133729.png
+2026-03-12_Hortifruti Natural_7750,03.png;2026-03-12;Hortifruti Natural;7750.03;Pix;ok;regras: Zaply;Screenshot_20260314-093410.png
+ILEGIVEL_Screenshot_20260624-131442.png;;;;;ilegivel;CrediSolar: não encontrado: cliente | 2ª passada: CrediSolar: não encontrado: cliente, valor | IA indisponível (sem credenciais);Screenshot_20260624-131442.png
+2026-06-24_Hortifruti Natural_11085,02.png;2026-06-24;Hortifruti Natural;11085.02;Transferência;ok;regras: Zaply;Screenshot_20260626-065627.png
+2026-01-13_AIACADO UNIAO COMERCIAL_18200,00.jpeg;2026-01-13;AIACADO UNIAO COMERCIAL;18200.00;Boleto;ok;regras: PagLesto;WhatsApp Image 2026-01-16 at 17.43.11.jpeg
+ILEGIVEL_WhatsApp Image 2026-02-07 at 08.05.22.jpeg;;;;;ilegivel;PagLesto: não encontrado: cliente | 2ª passada: PagLesto: não encontrado: valor | IA indisponível (sem credenciais);WhatsApp Image 2026-02-07 at 08.05.22.jpeg
+2026-03-30_Adega Ponto do Vinho_63220,00.jpeg;2026-03-30;Adega Ponto do Vinho;63220.00;Pix;ok;regras: Zaply;WhatsApp Image 2026-04-01 at 17.15.07.jpeg
+2026-04-03_AIACADO UNIAO COMERCIAL_29185,53.jpeg;2026-04-03;AIACADO UNIAO COMERCIAL;29185.53;Boleto;ok;regras: PagLesto;WhatsApp Image 2026-04-03 at 12.59.43.jpeg
+2026-04-17_REDE SUPERMERCADOS MAIS_10620,00.jpeg;2026-04-17;REDE SUPERMERCADOS MAIS;10620.00;Boleto;ok;regras: PagLesto;WhatsApp Image 2026-04-22 at 21.41.30.jpeg
+2026-05-03_SUPERMERCADO FAMILIA_28530,00.jpeg;2026-05-03;SUPERMERCADO FAMILIA;28530.00;Boleto;ok;regras: CrediSolar;WhatsApp Image 2026-05-07 at 07.00.32.jpeg
+2026-05-15_Distribuidora Bebidas Lopes_15890,00.jpeg;2026-05-15;Distribuidora Bebidas Lopes;15890.00;Pix;ok;regras: Zaply;WhatsApp Image 2026-05-16 at 07.01.08.jpeg
+2026-05-21_Supermercado Familia_24330,00.jpeg;2026-05-21;Supermercado Familia;24330.00;Pix;ok;regras: Zaply;WhatsApp Image 2026-05-22 at 13.59.33.jpeg
+2026-06-14_Hortifruti Natural_6110,00.jpeg;2026-06-14;Hortifruti Natural;6110.00;TED;ok;regras: Pontal;WhatsApp Image 2026-06-17 at 16.36.50.jpeg
+ILEGIVEL_WhatsApp Image 2026-06-24 at 11.14.11.jpeg;;;;;ilegivel;CrediSolar: não encontrado: cliente, valor, forma | 2ª passada: CrediSolar: não encontrado: forma | IA indisponível (sem credenciais);WhatsApp Image 2026-06-24 at 11.14.11.jpeg
+2026-06-27_DISTRIBUIDORA BEBIDAS LOPES_43511,58.pdf;2026-06-27;DISTRIBUIDORA BEBIDAS LOPES;43511.58;Pix;ok;regras: CrediSolar;anexo(12).pdf
+2026-04-10_COMERCIAL AMAZONAS_450,00.pdf;2026-04-10;COMERCIAL AMAZONAS;450.00;Pix;ok;regras: CrediSolar;anexo(22).pdf
+2026-06-05_Supermercado Familia_13830,00.pdf;2026-06-05;Supermercado Familia;13830.00;Pix;ok;regras: Serra Dourada;anexo(26).pdf
+2026-06-13_Supermercado Familia_30810,00.pdf;2026-06-13;Supermercado Familia;30810.00;Boleto;ok;regras: Serra Dourada;anexo(29).pdf
+2026-05-01_ADEGA PONTO DO VINHO_34070,00.pdf;2026-05-01;ADEGA PONTO DO VINHO;34070.00;Boleto;ok;regras: CrediSolar;anexo(49).pdf
+2026-04-10_SUPERMERCADO FAMILIA_30898,49.pdf;2026-04-10;SUPERMERCADO FAMILIA;30898.49;Boleto;ok;regras: CrediSolar;anexo(50).pdf
+2026-01-13_Supermercado Familia_12800,00.pdf;2026-01-13;Supermercado Familia;12800.00;Pix;ok;regras: Meridiano;anexo(57).pdf
+2026-03-26_SUPERMERCADO FAMILIA_9250,00.pdf;2026-03-26;SUPERMERCADO FAMILIA;9250.00;Boleto;ok;regras: PagLesto;arquivo_1963.pdf
+2026-02-28_Adega Ponto do Vinho_94000,00.pdf;2026-02-28;Adega Ponto do Vinho;94000.00;TED;ok;regras: Meridiano;arquivo_6259.pdf
+2026-03-11_Mercadao Central Ltda_3870,00.pdf;2026-03-11;Mercadao Central Ltda;3870.00;Pix;ok;regras: Pontal;arquivo_7047.pdf
+2026-06-08_Rede Supermercados Mais_18786,32.pdf;2026-06-08;Rede Supermercados Mais;18786.32;Pix;ok;regras: Rumo Certo;arquivo_8235.pdf
+2026-06-19_MERCADAO CENTRAL_9857,83.pdf;2026-06-19;MERCADAO CENTRAL;9857.83;Pix;ok;regras: CrediSolar;arquivo_8572.pdf
+2026-05-31_Atacado Uniao Comercial_28860,00.pdf;2026-05-31;Atacado Uniao Comercial;28860.00;Pix;ok;regras: Meridiano;arquivo_9793.pdf
+2026-05-19_Mercadao Central_2696,29.pdf;2026-05-19;Mercadao Central;2696.29;Pix;ok;regras: Meridiano;baixado (16).pdf
+2026-06-18_Supermercado Familia_20630,00.pdf;2026-06-18;Supermercado Familia;20630.00;TED;ok;regras: Meridiano;baixado (23).pdf
+2026-02-17_Supermercado Familia_12990,00.pdf;2026-02-17;Supermercado Familia;12990.00;Boleto;ok;regras: Serra Dourada;baixado (31).pdf
+2026-04-07_Adega Ponto do Vinho_36220,00.pdf;2026-04-07;Adega Ponto do Vinho;36220.00;TED;ok;regras: Meridiano;baixado (40).pdf
+2026-04-28_Hortifruti Natural_6070,00.pdf;2026-04-28;Hortifruti Natural;6070.00;Pix;ok;regras: Zaply;baixado (42).pdf
+2026-01-30_Supermercado Familia_69750,00.pdf;2026-01-30;Supermercado Familia;69750.00;Pix;ok;regras: Zaply;baixado (47).pdf
+2026-04-05_Rede Supermercados Mais_7170,00.pdf;2026-04-05;Rede Supermercados Mais;7170.00;TED;ok;regras: Meridiano;baixado (57).pdf
+2026-01-13_Supermercado Familia_17910,00.pdf;2026-01-13;Supermercado Familia;17910.00;Boleto;ok;regras: Meridiano;baixado (8).pdf
+2026-04-10_Rede Farmacias Popular_1690,00.pdf;2026-04-10;Rede Farmacias Popular;1690.00;Pix;ok;regras: Meridiano;compr 4514.pdf
+2026-02-17_ATACADO UNIAO COMERCIAL_65960,00.pdf;2026-02-17;ATACADO UNIAO COMERCIAL;65960.00;TED;ok;regras: Vale Claro;compr 479.pdf
+2026-01-30_COMERCIAL AMAZONAS_857,80.pdf;2026-01-30;COMERCIAL AMAZONAS;857.80;Pix;ok;regras: Vale Claro;compr 6279.pdf
+2026-06-30_MERCADAO CENTRAL_5190,00.pdf;2026-06-30;MERCADAO CENTRAL;5190.00;Depósito;ok;regras: PagLesto;compr 7168.pdf
+2026-01-26_Atacado Uniao Comercial_10240,00.pdf;2026-01-26;Atacado Uniao Comercial;10240.00;Pix;ok;regras: Meridiano;compr 7943.pdf
+2026-04-23_ADEGA PONTO DO VINHO_9090,00.pdf;2026-04-23;ADEGA PONTO DO VINHO;9090.00;Depósito;ok;regras: CrediSolar;compr 8977.pdf
+2026-02-25_Hortifruti Natural_10540,00.pdf;2026-02-25;Hortifruti Natural;10540.00;Transferência;ok;regras: Zaply;comprovante (2065).pdf
+2026-06-28_FRIGORIFICO VALE VERDE_4830,00.pdf;2026-06-28;FRIGORIFICO VALE VERDE;4830.00;Pix;ok;regras: CrediSolar;comprovante (3761).pdf
+2026-06-12_REDE SUPERMERCADOS MAIS_8510,00.pdf;2026-06-12;REDE SUPERMERCADOS MAIS;8510.00;Boleto;ok;regras: PagLesto;comprovante (4101).pdf
+2026-06-16_Mercadao Central_20500,00.pdf;2026-06-16;Mercadao Central;20500.00;TED;ok;regras: Pontal;comprovante (4769).pdf
+2026-01-29_Distribuidora Bebidas Lopes_7020,00.pdf;2026-01-29;Distribuidora Bebidas Lopes;7020.00;Pix;ok;regras: Pontal;comprovante (5061).pdf
+2026-04-15_Supermercado Familia_39712,69.pdf;2026-04-15;Supermercado Familia;39712.69;Pix;ok;regras: Pontal;comprovante (7215).pdf
+2026-06-26_Supermercado Familia_13576,46.pdf;2026-06-26;Supermercado Familia;13576.46;Boleto;ok;regras: Meridiano;comprovante (9863).pdf
+2026-03-17_Emporio Vila Nova Ltda_22271,71.pdf;2026-03-17;Emporio Vila Nova Ltda;22271.71;Boleto;ok;regras: Rumo Certo;comprovante_final_v18.pdf
+2026-03-30_Mercearia Sao Joaquim_20567,47.pdf;2026-03-30;Mercearia Sao Joaquim;20567.47;Pix;ok;regras: Meridiano;comprovante_final_v23.pdf
+2026-03-16_Hortifruti Natural_7490,00.pdf;2026-03-16;Hortifruti Natural;7490.00;Pix;ok;regras: Pontal;comprovante_final_v29.pdf
+2026-06-05_Supermercado Familia_22030,00.pdf;2026-06-05;Supermercado Familia;22030.00;Pix;ok;regras: Pontal;comprovante_final_v3.pdf
+2026-04-20_Rede Supermercados Mais_14340,00.pdf;2026-04-20;Rede Supermercados Mais;14340.00;Depósito;ok;regras: Meridiano;comprovante_final_v41.pdf
+2026-06-26_Comercial Amazonas_380,00.pdf;2026-06-26;Comercial Amazonas;380.00;Depósito;ok;regras: Meridiano;comprovante_final_v54.pdf
+2026-05-06_Atacado Uniao Comercial_21930,00.pdf;2026-05-06;Atacado Uniao Comercial;21930.00;Pix;ok;regras: Meridiano;comprovante_final_v59.pdf
+2026-05-13_Hortifruti Natural_12606,74.pdf;2026-05-13;Hortifruti Natural;12606.74;Pix;ok;regras: Meridiano;cópia de documento 10.pdf
+2026-04-01_HORTIFRUTI NATURAL_8700,00.pdf;2026-04-01;HORTIFRUTI NATURAL;8700.00;Pix;ok;regras: Vale Claro;cópia de documento 25.pdf
+2026-06-30_Adega Ponto do Vinho_24242,90.pdf;2026-06-30;Adega Ponto do Vinho;24242.90;Pix;ok;regras: Meridiano;cópia de documento 26.pdf
+2026-05-25_Supermercado Familia_10990,00.pdf;2026-05-25;Supermercado Familia;10990.00;Pix;ok;regras: Rumo Certo;cópia de documento 3.pdf
+2026-01-11_Adega Ponto do Vinho_51323,96.pdf;2026-01-11;Adega Ponto do Vinho;51323.96;Boleto;ok;regras: Serra Dourada;cópia de documento 31.pdf
+2026-03-11_Supermercado Familia_31990,00.pdf;2026-03-11;Supermercado Familia;31990.00;Boleto;ok;regras: Serra Dourada;cópia de documento 53.pdf
+2026-03-24_Adega Ponto do Vinho_18260,00.pdf;2026-03-24;Adega Ponto do Vinho;18260.00;Pix;ok;regras: Rumo Certo;cópia de documento 7.pdf
+2026-02-20_Rede Supermercados Mais_12040,00.pdf;2026-02-20;Rede Supermercados Mais;12040.00;Boleto;ok;regras: Serra Dourada;digitalizado_2882.pdf
+2026-01-13_Rede Farmacias Popular_8179,80_copia.pdf;2026-01-13;Rede Farmacias Popular;8179.80;Boleto;ok;regras: Serra Dourada;digitalizado_3060.pdf
+2026-06-26_Supermercado Familia_18090,00.pdf;2026-06-26;Supermercado Familia;18090.00;Depósito;ok;regras: Meridiano;digitalizado_3152.pdf
+2026-06-01_ADEGA PONTO DO VINHO_12610,00.pdf;2026-06-01;ADEGA PONTO DO VINHO;12610.00;Pix;ok;regras: Vale Claro;digitalizado_4786.pdf
+2026-01-26_Atacado Uniao Comercial_7783,88.pdf;2026-01-26;Atacado Uniao Comercial;7783.88;Boleto;ok;regras: Serra Dourada;digitalizado_6619.pdf
+2026-03-11_Adega Ponto do Vinho_10960,00.pdf;2026-03-11;Adega Ponto do Vinho;10960.00;Boleto;ok;regras: Serra Dourada;digitalizado_7472.pdf
+2026-03-27_SUPERMERCADO FAMILIA_12383,52.pdf;2026-03-27;SUPERMERCADO FAMILIA;12383.52;Pix;ok;regras: CrediSolar;digitalizado_812.pdf
+2026-03-23_Hortifruti Natural_31290,00.pdf;2026-03-23;Hortifruti Natural;31290.00;Depósito;ok;regras: Meridiano;digitalizado_9575.pdf
+2026-06-27_ADEGA PONTO DO VINHO_8461,73.pdf;2026-06-27;ADEGA PONTO DO VINHO;8461.73;Pix;ok;regras: CrediSolar;doc (2882).pdf
+2026-02-16_SUPERMERCADO FAMILIA_20420,00.pdf;2026-02-16;SUPERMERCADO FAMILIA;20420.00;Boleto;ok;regras: CrediSolar;doc (3100).pdf
+2026-04-26_Comercial Amazonas_674,96.pdf;2026-04-26;Comercial Amazonas;674.96;TED;ok;regras: Pontal;doc (3410).pdf
+2026-03-12_HORTFRUTI NATURAL_20910,00.pdf;2026-03-12;HORTFRUTI NATURAL;20910.00;Depósito;ok;regras: PagLesto;doc (4373).pdf
+2026-04-28_Hortifruti Natural_6070,00_copia.pdf;2026-04-28;Hortifruti Natural;6070.00;Pix;ok;regras: Zaply;doc (462).pdf
+2026-04-01_Rede Supermercados Mais_4490,00.pdf;2026-04-01;Rede Supermercados Mais;4490.00;Pix;ok;regras: Rumo Certo;doc (4959).pdf
+2026-06-19_ATACADO UNIAO COMERCIAL_31180,00.pdf;2026-06-19;ATACADO UNIAO COMERCIAL;31180.00;Boleto;ok;regras: PagLesto;doc (7420).pdf
+2026-01-01_Atacado Uniao Comercial_19870,00.pdf;2026-01-01;Atacado Uniao Comercial;19870.00;Boleto;ok;regras: Serra Dourada;doc (8135).pdf
+2026-02-09_FRIGORIFICO VALE VERDE_6280,00.pdf;2026-02-09;FRIGORIFICO VALE VERDE;6280.00;Pix;ok;regras: CrediSolar;doc (9149).pdf
+2026-01-21_MERCADAO CENTRAL_20530,00.pdf;2026-01-21;MERCADAO CENTRAL;20530.00;Boleto;ok;regras: CrediSolar;envio 12.pdf
+2026-02-26_Mercadao Central_11910,00.pdf;2026-02-26;Mercadao Central;11910.00;Transferência;ok;regras: Zaply;envio 13.pdf
+2026-06-23_COMERCIAL AMAZONAS_505,33.pdf;2026-06-23;COMERCIAL AMAZONAS;505.33;Boleto;ok;regras: PagLesto;envio 16.pdf
+2026-05-21_Comercial Amazonas_380,00.pdf;2026-05-21;Comercial Amazonas;380.00;Boleto;ok;regras: Meridiano;envio 3.pdf
+2026-01-23_DISTRIBUIDORA BEBIDAS LOPES_8270,44.pdf;2026-01-23;DISTRIBUIDORA BEBIDAS LOPES;8270.44;Boleto;ok;regras: CrediSolar;envio 34.pdf
+2026-05-07_Supermercado Familia_30480,00.pdf;2026-05-07;Supermercado Familia;30480.00;TED;ok;regras: Pontal;envio 38.pdf
+2026-04-06_Distribuidora Bebidas Lopes_38860,00.pdf;2026-04-06;Distribuidora Bebidas Lopes;38860.00;Pix;ok;regras: Meridiano;envio 41.pdf
+2026-03-20_Adega Ponto do Vinho_30356,99.pdf;2026-03-20;Adega Ponto do Vinho;30356.99;Pix;ok;regras: Meridiano;envio 48.pdf
+2026-05-29_ATACADO UNIAO COMERCIAL_33365,19.pdf;2026-05-29;ATACADO UNIAO COMERCIAL;33365.19;Depósito;ok;regras: PagLesto;envio 49.pdf
+ILEGIVEL_foto 19.jpg;;;;;ilegivel;PagLesto: não encontrado: valor | 2ª passada: PagLesto: não encontrado: valor | IA indisponível (sem credenciais);foto 19.jpg
+2026-02-23_Adega Ponto do Vinho_28631,18.jpg;2026-02-23;Adega Ponto do Vinho;28631.18;Boleto;ok;regras: Meridiano;foto 20.jpg
+2026-06-23_Supermercado Familia_27770,00.jpg;2026-06-23;Supermercado Familia;27770.00;Pix;ok;regras: Zaply;foto 23.jpg
+ILEGIVEL_foto 24.jpg;;;;;ilegivel;Docling não extraiu texto | IA indisponível (sem credenciais);foto 24.jpg
+2026-03-11_Atacado Uniao Comercial_30131,94.jpg;2026-03-11;Atacado Uniao Comercial;30131.94;Transferência;ok;regras: Zaply;foto 27.jpg
+2026-04-01_Rede Supermercados Mais_17930,00.jpg;2026-04-01;Rede Supermercados Mais;17930.00;Transferência;ok;regras: Zaply;foto 33.jpg
+2026-03-16_REDE FARMACIAS POPULAR_8650,00.jpg;2026-03-16;REDE FARMACIAS POPULAR;8650.00;Depósito;ok;regras: PagLesto;foto 34.jpg
+ILEGIVEL_foto 39.jpg;;;;;ilegivel;layout não reconhecido | 2ª passada: Vale Claro: não encontrado: data, valor, forma | IA indisponível (sem credenciais);foto 39.jpg
+2026-06-08_AIACADO UNIAO COMERCIAL_60570,00.jpg;2026-06-08;AIACADO UNIAO COMERCIAL;60570.00;Depósito;ok;regras: PagLesto;foto 44.jpg
+2026-05-13_Distribuidora Bebidas Lopes_4150,00.jpg;2026-05-13;Distribuidora Bebidas Lopes;4150.00;Transferência;ok;regras: Zaply;foto 55.jpg
+2026-02-18_MERCADAO CENTRAL_10070,00.jpg;2026-02-18;MERCADAO CENTRAL;10070.00;Pix;ok;regras: CrediSolar;foto 6.jpg
+2026-03-11_Rede Supermercados Mais_10440,00.jpg;2026-03-11;Rede Supermercados Mais;10440.00;Pix;ok;regras: Pontal;foto 7.jpg
+ILEGIVEL_image14.jpeg;;;;;ilegivel;Serra Dourada: não encontrado: valor | 2ª passada: Serra Dourada: não encontrado: cliente | IA indisponível (sem credenciais);image14.jpeg
+2026-06-29_Rede Farmacias Popular_3605,20.jpeg;2026-06-29;Rede Farmacias Popular;3605.20;Boleto;ok;regras: Serra Dourada;image31.jpeg
+2026-04-20_Supermercado Familia_27860,00.jpeg;2026-04-20;Supermercado Familia;27860.00;Boleto;ok;regras: Meridiano;image36.jpeg
+2026-03-30_SUPERMERCADO FAMILIA_29320,00.jpeg;2026-03-30;SUPERMERCADO FAMILIA;29320.00;Boleto;ok;regras: PagLesto;image5.jpeg
+2026-03-25_Hortifruti Natural_26900,00.jpeg;2026-03-25;Hortifruti Natural;26900.00;Pix;ok;regras: Meridiano;image51.jpeg
+2026-04-25_Frigorifico Vale Verde_16220,00.jpeg;2026-04-25;Frigorifico Vale Verde;16220.00;Pix;ok;regras: Pontal;imagem (17).jpeg
+2026-01-14_Adega Ponto do Vinho_7481,72.jpeg;2026-01-14;Adega Ponto do Vinho;7481.72;Pix;ok;regras: Zaply;imagem (19).jpeg
+2026-02-17_AIACADO UNIAO COMERCIAI_15020,00.jpeg;2026-02-17;AIACADO UNIAO COMERCIAI;15020.00;Boleto;ok;regras: PagLesto;imagem (26).jpeg
+2026-04-29_Hortifruti Natural_92996,86.jpeg;2026-04-29;Hortifruti Natural;92996.86;Boleto;ok;regras: Serra Dourada;imagem (27).jpeg
+2026-04-29_Hortifruti Natural_92996,86_copia.jpeg;2026-04-29;Hortifruti Natural;92996.86;Boleto;ok;regras: Serra Dourada;imagem (52).jpeg
+2026-02-13_Distribuidora Bebidas Lopes_29770,00.jpeg;2026-02-13;Distribuidora Bebidas Lopes;29770.00;Pix;ok;regras: Zaply;imagem (54).jpeg
+2026-05-08_HORIIFRUTI NATURAL_27110,00.jpeg;2026-05-08;HORIIFRUTI NATURAL;27110.00;Boleto;ok;regras: PagLesto;imagem (55).jpeg
+2026-01-16_Hortifruti Natural_48773,87.jpeg;2026-01-16;Hortifruti Natural;48773.87;Pix;ok;regras: Pontal;imagem (57).jpeg
+ILEGIVEL_imagem (58).jpeg;;;;;ilegivel;layout não reconhecido | 2ª passada: Vale Claro: não encontrado: data, valor, forma | IA indisponível (sem credenciais);imagem (58).jpeg
+2026-04-15_Atacado Uniao Comercial_50320,00.pdf;2026-04-15;Atacado Uniao Comercial;50320.00;Depósito;ok;regras: Meridiano;novo arquivo.pdf
+2026-04-02_Supermercado Familia_34481,73.pdf;2026-04-02;Supermercado Familia;34481.73;Boleto;ok;regras: Meridiano;novo doc 12.pdf
+2026-04-06_SUPERMERCADO FAMILIA_94000,00.pdf;2026-04-06;SUPERMERCADO FAMILIA;94000.00;Pix;ok;regras: Vale Claro;novo doc 29.pdf
+2026-06-04_Rede Supermercados Mais_3480,53.pdf;2026-06-04;Rede Supermercados Mais;3480.53;Pix;ok;regras: Meridiano;novo doc 32.pdf
+ILEGIVEL_print tela 14.png;;;;;ilegivel;Zaply: não encontrado: valor, forma | 2ª passada: Zaply: não encontrado: data | IA indisponível (sem credenciais);print tela 14.png
+2026-06-10_Adega Ponto do Vinho_26980,00.png;2026-06-10;Adega Ponto do Vinho;26980.00;Depósito;ok;regras: Meridiano;print tela 32.png
+2026-04-02_Frigorífico Vale Verde_9590,00.pdf;2026-04-02;Frigorífico Vale Verde;9590.00;Pix;ok;regras: Serra Dourada;rec 0203.pdf
+2026-02-15_Supermercado Familia_9226,70.pdf;2026-02-15;Supermercado Familia;9226.70;Transferência;ok;regras: Zaply;rec 2465.pdf
+2026-03-17_Frigorifico Vale Verde_7260,00.pdf;2026-03-17;Frigorifico Vale Verde;7260.00;Boleto;ok;regras: Meridiano;rec 2860.pdf
+2026-03-24_Adega Ponto do Vinho_7336,41.pdf;2026-03-24;Adega Ponto do Vinho;7336.41;Pix;ok;regras: Zaply;rec 4558.pdf
+2026-03-08_Adega Ponto do Vinho_12580,00.pdf;2026-03-08;Adega Ponto do Vinho;12580.00;TED;ok;regras: Meridiano;rec 4589.pdf
+2026-04-10_Rede Supermercados Mais_10450,00.pdf;2026-04-10;Rede Supermercados Mais;10450.00;Pix;ok;regras: Rumo Certo;rec 4903.pdf
+2026-03-23_Comercial Amazonas_380,00.pdf;2026-03-23;Comercial Amazonas;380.00;Pix;ok;regras: Meridiano;rec 5432.pdf
+2026-01-12_Hortifruti Natural_5350,00.pdf;2026-01-12;Hortifruti Natural;5350.00;Depósito;ok;regras: Meridiano;rec 5584.pdf
+2026-01-13_Rede Supermercados Mais_41510,00.pdf;2026-01-13;Rede Supermercados Mais;41510.00;Pix;ok;regras: Serra Dourada;scan7799.pdf
