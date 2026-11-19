@@ -1,0 +1,33 @@
+M  Banco Meridiano  COMPROVANTE
+Banco Multiplo S.A  CNPJ 22.907.331/0001-40
+Comprovante de pagamento de boleto
+Documento emitido em 28/04/2026 as 17:12:12
+Pagamento de boleto
+Tipo de operacao
+28/04/2026
+Data
+17:12.12
+Hora
+RS 19.793,90
+Valor
+Distribuidora Bebidas Lopes
+Origem
+06.707.745/0001-88
+CNPJ de origem
+Banco Costa Leste
+Instituicao de origem
+6670  40481-6
+Agencia  conta de origem
+Distribuidora Aurora Ltda
+Destino
+41.220.118/0001-55
+CNPJ de destino
+0341  18.442-6
+Agencia  conta de destino
+546959445663606371431835095
+Protocolo
+Internet Banking
+Canal
+Este comprovante e valido como recibo de pagamento.  wwwbancomeridiano.com.br
+Ouvidoria 0800 771  0450  SAC 4004 0900
+Chave de seguranca: 54695944.56636063.71431835

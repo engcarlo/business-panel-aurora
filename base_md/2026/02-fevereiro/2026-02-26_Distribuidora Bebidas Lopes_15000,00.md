@@ -1,0 +1,51 @@
+---
+origem: aurora
+tipo: comprovante
+data: 2026-02-26
+cliente: "Distribuidora Bebidas Lopes"
+cliente_no_comprovante: "Distribuidora Bebidas Lopes"
+valor: 15000.00
+forma: Depósito
+regiao_uf: Sul/RS
+categoria: Bebidas
+situacao: lancado
+arquivo: "2026-02-26_Distribuidora Bebidas Lopes_15000,00.jpg"
+arquivo_original: "IMG-20260228-WA0059.jpg"
+---
+
+# 26/02/2026 · Distribuidora Bebidas Lopes · R$ 15.000,00
+
+| Campo | Valor |
+|---|---|
+| Forma | Depósito |
+| Região/UF | Sul/RS |
+| Categoria | Bebidas |
+| Situação | lancado |
+| Comprovante | [2026-02-26_Distribuidora Bebidas Lopes_15000,00.jpg](../../../Comprovantes/2026-02-26_Distribuidora%20Bebidas%20Lopes_15000,00.jpg) |
+
+## Texto lido (resumo)
+
+```text
+08.50 Vivo
+M  Banco Meridiano
+COMPROVANTE
+Banco Mulliplo SA  CNPJ 22.907.331/0001-40
+Comprovante de deposito em conta
+Documento emitido em 26/02/2026 as 08-50;42
+Tipo de operacao  Deposito em conta
+Data  26/02/2026
+Hora  08.50.42
+Valor  RS 15.000,00
+Origem  Distribuidora Bebidas Lopes
+CNPJ de origem  06.707,745/0001-88
+Instituicao de origemn  Banco Costa Leste
+Agencia  conta de origem  6670  40481-6
+Destino  Distribuidora Aurora Ltda
+CNPJ de destino  41.220.118/0001-55
+Agencia  conta de destino  0341  18.442-6
+Protocolo  787389366574882912744764716
+Canal  Aplicalivo
+Este comprovante  valico como recibo de pogamento
+Ouvidcria 0800 77  0450  SAC 4004 0900  Mavw bancomeridiano com br
+Chave de sequianca  78738936 65748829 12744764
+```

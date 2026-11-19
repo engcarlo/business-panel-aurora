@@ -1,0 +1,22 @@
+2026-06-15
+Banco Serra Dourada  Doc.  1135049146
+SD  Comprovante de operacao bancaria
+VALOR DA OPERACAO  (R$)
+32.230,00
+CONTA DE ORIGEM
+Supermercado Familia
+CNPJ 21.004 .  374/0001-22
+Dourada  Ag 7692  cIC  73167-1
+Banco Serra
+CONTA DE DESTINO
+Distribuidora Aurora Ltda
+CNPJ  41.220.118/0001-55  C/C 18.442-6
+Serra Dourada  Ag 0341
+Banco
+DADOS DA OPERACAO
+Modalidade: Credito TED
+Data  contabil:  113504914667668586033790601  2026-06-15
+Autenticacao:
+Saldo disponivel  apos a  operacao: R$ 292.071,57
+Limite de credito nao  utilizado: Rs 68.000,00
+011350491466 76685860337 86844650

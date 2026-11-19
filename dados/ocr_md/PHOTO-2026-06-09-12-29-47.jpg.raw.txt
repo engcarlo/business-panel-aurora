@@ -1,0 +1,22 @@
+11:12 Vivo
+M  Banco Meridiano
+COMPROVANTE
+Banco Mulliplo SA  CNPJ 22.907.331/0001-40
+Comprovante de pagamento de boleto
+Documento emitido em 05/06/2026 as 11.12.55
+Tipo de operacao  Pagamento de boleto
+Data  05/06/2026
+Hora  11:12.55
+Valor  RS 18.980,00
+Origem  Atacado Uniao Comercial
+CNPJ de origem  48,907,035/0001-48
+Instituicao de origemn  Banco Central do Litoral
+Agencia  conta de origem  3146  88637-8
+Destino  Distribuidora Aurora Ltda
+CNPJ de destino  41.220.118/0001-55
+Agencia  conta de destino  0341  18.442-6
+Protocolo  695326706127896633018317440
+Canal  Aplicalivo
+Este comprovante  valico como recibo de pogamento
+Ouvidcria 0800 77  0450  SAC 4004 0900  Mavw bancomeridiano com br
+Chave de sequianca  69532670 61278966 33018317

@@ -1,0 +1,24 @@
+<!-- image -->
+
+## Banco Meridiano
+
+Banco Multiplo SA CNPJ 22.907,331/0001-40
+
+## Comprovante de deposito em conta
+
+Documento emitido em 10/06/2026 as 10-50,32
+
+| Tipo de operacao  Deposito em conta  Data  10/06/2026  Hora  10.50.32  Valor  RS 26.980,00  Origem  Adega Ponto do Vinho  CNPJ de origem  87.857.978/0001-39  Instituicao de origem  Uniplan Financeira  Agencia  conta de origem  7393 / 91431-7  Destino  Distribuidora Aurora Ltda  CNPJ de destino  41.220.118/0001-55  Agencia  conta de destino  0341  18.442-6  Protocolo  326295411432860963297446019  Canal  Agencia   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Este comprovante € valido ccmo recibo de pagamento.
+
+Ouvidcria 0800 771 0450 SAC 4004 090o
+
+Chave de seguranca; 32629541 14328609 63297446
+
+<!-- image -->
+
+<!-- image -->
+
+COMPROVANTE

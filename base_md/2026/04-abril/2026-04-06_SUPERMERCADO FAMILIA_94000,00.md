@@ -1,0 +1,48 @@
+---
+origem: aurora
+tipo: comprovante
+data: 2026-04-06
+cliente: "Supermercado Familia"
+cliente_no_comprovante: "SUPERMERCADO FAMILIA"
+valor: 94000.00
+forma: Pix
+regiao_uf: Norte/PA
+categoria: Hortifruti
+situacao: lancado
+arquivo: "2026-04-06_SUPERMERCADO FAMILIA_94000,00.pdf"
+arquivo_original: "novo doc 29.pdf"
+---
+
+# 06/04/2026 · Supermercado Familia · R$ 94.000,00
+
+| Campo | Valor |
+|---|---|
+| Forma | Pix |
+| Região/UF | Norte/PA |
+| Categoria | Hortifruti |
+| Situação | lancado |
+| Comprovante | [2026-04-06_SUPERMERCADO FAMILIA_94000,00.pdf](../../../Comprovantes/2026-04-06_SUPERMERCADO%20FAMILIA_94000,00.pdf) |
+
+## Texto lido (resumo)
+
+```text
+BANCO VALE CLARO
+Extrato de conta corrente
+Distribuidora Aurora Ltda
+Ag 0341 · C/C 18.442-6
+CNPJ 41.220.118/0001-55
+Periodo: 01/04/2026 a 30/04/2026 Emitido em 15/04/2026
+Data Historico Documento Valor (R$) Saldo (R$)
+03/04 SALDO ANTERIOR 273.730,99
+04/04 TARIFA PACOTE SERVICOS 971614 793,51 D 272.937,48
+05/04 PAGTO FORNECEDOR 564720 9.112,14 D 263.825,34
+06/04 PIX RECEBIDO - Remetente: SUPERMERCADO FAMILIA 565887180 94.000,00 C 357.825,34
+06/04 DEB AUTOMATICO ENERGIA 178550 3.640,40 D 354.184,94
+07/04 TED ENVIADA 865292 15.358,86 D 338.826,08
+08/04 DEB CONVENIO IMPOSTOS 270629 1.150,95 D 337.675,13
+09/04 SALDO FINAL 337.675,13
+Saldo disponivel: R$ 337.675,13 Limite: R$ 92.000,00
+Lancamentos com a letra C sao creditos e com a letra D sao debitos.
+Banco Vale Claro S.A. · CNPJ 60.771.884/0001-06 · Ouvidoria 0800 645 1122
+Documento gerado em 15/04/2026 · chave 565887180057
+```

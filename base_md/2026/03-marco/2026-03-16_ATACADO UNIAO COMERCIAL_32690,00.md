@@ -1,0 +1,48 @@
+---
+origem: aurora
+tipo: comprovante
+data: 2026-03-16
+cliente: "Atacado Uniao Comercial"
+cliente_no_comprovante: "ATACADO UNIAO COMERCIAL"
+valor: 32690.00
+forma: Pix
+regiao_uf: Sudeste/SP
+categoria: Mercearia
+situacao: lancado
+arquivo: "2026-03-16_ATACADO UNIAO COMERCIAL_32690,00.pdf"
+arquivo_original: "Digitalizar 7105.pdf"
+---
+
+# 16/03/2026 · Atacado Uniao Comercial · R$ 32.690,00
+
+| Campo | Valor |
+|---|---|
+| Forma | Pix |
+| Região/UF | Sudeste/SP |
+| Categoria | Mercearia |
+| Situação | lancado |
+| Comprovante | [2026-03-16_ATACADO UNIAO COMERCIAL_32690,00.pdf](../../../Comprovantes/2026-03-16_ATACADO%20UNIAO%20COMERCIAL_32690,00.pdf) |
+
+## Texto lido (resumo)
+
+```text
+BANCO VALE CLARO
+Extrato de conta corrente
+Distribuidora Aurora Ltda
+Ag 0341 · C/C 18.442-6
+CNPJ 41.220.118/0001-55
+Periodo: 01/03/2026 a 31/03/2026 Emitido em 25/03/2026
+Data Historico Documento Valor (R$) Saldo (R$)
+13/03 SALDO ANTERIOR 207.081,87
+14/03 TARIFA PACOTE SERVICOS 915912 673,04 D 206.408,83
+15/03 PAGTO FORNECEDOR 693326 9.543,97 D 196.864,86
+16/03 PIX RECEBIDO - Remetente: ATACADO UNIAO COMERCIAL 058404571 32.690,00 C 229.554,86
+16/03 DEB AUTOMATICO ENERGIA 701208 5.620,11 D 223.934,75
+17/03 TED ENVIADA 903063 17.915,28 D 206.019,47
+18/03 DEB CONVENIO IMPOSTOS 587953 1.258,23 D 204.761,24
+19/03 SALDO FINAL 204.761,24
+Saldo disponivel: R$ 204.761,24 Limite: R$ 96.000,00
+Lancamentos com a letra C sao creditos e com a letra D sao debitos.
+Banco Vale Claro S.A. · CNPJ 60.771.884/0001-06 · Ouvidoria 0800 645 1122
+Documento gerado em 25/03/2026 · chave 058404571848
+```

@@ -1,0 +1,50 @@
+---
+origem: aurora
+tipo: comprovante
+data: 2026-04-25
+cliente: "Frigorifico Vale Verde"
+cliente_no_comprovante: "Frigorifico Vale Verde"
+valor: 16220.00
+forma: Pix
+regiao_uf: Centro-Oeste/MT
+categoria: Congelados
+situacao: lancado
+arquivo: "2026-04-25_Frigorifico Vale Verde_16220,00.jpeg"
+arquivo_original: "imagem (17).jpeg"
+---
+
+# 25/04/2026 · Frigorifico Vale Verde · R$ 16.220,00
+
+| Campo | Valor |
+|---|---|
+| Forma | Pix |
+| Região/UF | Centro-Oeste/MT |
+| Categoria | Congelados |
+| Situação | lancado |
+| Comprovante | [2026-04-25_Frigorifico Vale Verde_16220,00.jpeg](../../../Comprovantes/2026-04-25_Frigorifico%20Vale%20Verde_16220,00.jpeg) |
+
+## Texto lido (resumo)
+
+```text
+De:  Banco Pontal <avisos@bancopontal .com.br>
+Para:  financeiro@distribuidoraaurora.com.br
+Assunto:  Aviso de credito em conta  25 ABR 2026
+Recebido:  sab, 25/04 15.32
+P  Banco Pontal
+Ola, Distribuidora Aurora Ltda.
+Um credito foi identificado na sua conta corrente.
+Documento  Valor
+Titulo 99439-A  R$ 8.991,49
+Titulo 99439-B  R$ 7.228,51
+Total creditado  R$ 16.220,00
+Detalhes do credito
+Frigorifico Vale Verde
+CNPJ 17.057.912/0001-27
+Uniplan Financeira  Ag 0295  CIC 83504-7
+Pix  25 ABR 2026  15.32
+Identificador 4949474204096009
+Este e um e-mail automatico. Por favor , nao responda.
+Central de relacionamento 3003 8877  Ouvidoria 0800 727 9977
+As informacoes contidas nesta mensagem sao confidenciais e de uso restrito do destinatario  Caso a tenha recebido por engano, solicitamos que
+apague  comunique 0 remetente  0 Banco Pontal nunca solicita senhas por e-mail.
+```

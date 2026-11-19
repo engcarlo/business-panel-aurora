@@ -1,0 +1,22 @@
+13-53 Vivo
+M  Banco Meridiano
+COMPROVANTE
+Banco Multiplo SA  CNPJ 22.907.331/0001-40
+Comprovante de pix recebido
+Documento emitido em 08/01/2026 as 13-53,40
+Tipo de operacao  Pix recebido
+Data  08/01/2026
+Hora  13.53.40
+Valor  RS 21.750,00
+Origem  Distribuidora Bebidas Lopes
+CNPJ de origem  06.707.745/0001-88
+Instituicao de origemn  Banco Costa Leste
+Agencia  conta de origem  6670  40481-6
+Destino  Distribuidora Aurora Ltda
+CNPJ de destino  41.220.118/0001-55
+Agencia  conta de destino  0341  18.442-6
+Protocolo  035705419055641386942836544
+Canal  Internet Banking
+Este comprovante  valido como recibo de pagamento
+Ouvidcria 0800 771 0450  SAC 4004 0900  nn  bancomeridiano com br
+el  Seuanga  03570541 90556413 86942836

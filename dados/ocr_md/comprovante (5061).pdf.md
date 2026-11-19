@@ -1,0 +1,21 @@
+De: Banco Pontal <avisos@bancopontal.com.br>
+Para: financeiro@distribuidoraaurora.com.br
+Assunto: Aviso de credito em conta · 29 JAN 2026
+Recebido: qui, 29/01 07:56
+P Banco Pontal
+Ola, Distribuidora Aurora Ltda.
+Um credito foi identificado na sua conta corrente.
+Documento Valor
+Titulo 3090-A R$ 4.088,90
+Titulo 3090-B R$ 2.931,10
+Total creditado R$ 7.020,00
+Detalhes do credito
+Distribuidora Bebidas Lopes
+CNPJ 06.707.745/0001-88
+Banco Costa Leste · Ag 6670 · C/C 40481-6
+Pix · 29 JAN 2026 · 07:56
+Identificador 6981503116614840
+Este e um e-mail automatico. Por favor, nao responda.
+Central de relacionamento 3003 8877 · Ouvidoria 0800 727 9977
+As informacoes contidas nesta mensagem sao confidenciais e de uso restrito do destinatario. Caso a tenha recebido por engano, solicitamos que a
+apague e comunique o remetente. O Banco Pontal nunca solicita senhas por e-mail.

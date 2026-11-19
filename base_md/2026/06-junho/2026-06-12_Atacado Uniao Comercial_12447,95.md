@@ -1,0 +1,51 @@
+---
+origem: aurora
+tipo: comprovante
+data: 2026-06-12
+cliente: "Atacado Uniao Comercial"
+cliente_no_comprovante: "Atacado Uniao Comercial"
+valor: 12447.95
+forma: Pix
+regiao_uf: Sudeste/SP
+categoria: Mercearia
+situacao: lancado
+arquivo: "2026-06-12_Atacado Uniao Comercial_12447,95.jpg"
+arquivo_original: "4965.jpg"
+---
+
+# 12/06/2026 · Atacado Uniao Comercial · R$ 12.447,95
+
+| Campo | Valor |
+|---|---|
+| Forma | Pix |
+| Região/UF | Sudeste/SP |
+| Categoria | Mercearia |
+| Situação | lancado |
+| Comprovante | [2026-06-12_Atacado Uniao Comercial_12447,95.jpg](../../../Comprovantes/2026-06-12_Atacado%20Uniao%20Comercial_12447,95.jpg) |
+
+## Texto lido (resumo)
+
+```text
+09:12  Vivo
+De:  Banco Pontal <avisos@bancopontalcom br>
+Para:  financeiroadistribuidoraaurora com br
+Assunto:  Aviso de credito em conta  12 JUN 2026
+Recebido:  seX  12/06 09:12
+Banco Pontal
+Ola  Distribuidora Aurora Ltda_
+Um credito foi identificado na sua conta corrente
+Documento  Valor
+Titulo 7900-A  R$ 5.755,88
+Titulo 7900-B  R$ 6.692,07
+Total creditado  R$ 12.447,95
+Detalhes do credito
+Atacado Uniao Comercial
+CNPJ 48.907.035/0001-48
+Banco Central do Litoral  Ag 3146  CIC 88637-8
+Pix  12 JUN 2026  09:12
+Identificador 5081568062919416
+Este  umn €mnail automatico. Por favor , nlao responda.
+Central de relacionamento 3003 8877  Ouvidoria 0800 727 9977
+As intormacoes contidas nesta mensagem sao contidenciais  de uso restrito do destinatario. Caso  tenha recebido por engano; solicitamos que
+apaque  comunkue  remetente;  Banco Pontal nunca solicita senhas por e-mail
+```
